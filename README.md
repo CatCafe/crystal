@@ -1,6 +1,8 @@
 Crystal [![Build Status](https://travis-ci.org/manastech/crystal.svg)](https://travis-ci.org/manastech/crystal) [![Bountysource](https://api.bountysource.com/badge/team?team_id=89730&style=raised)](https://www.bountysource.com/teams/crystal-lang/fundraisers/702-crystal-language)
 =======
 
+[![Join the chat at https://gitter.im/CatCafe/crystal](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CatCafe/crystal?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Crystal is a programming language with the following goals:
 
 * Have the same syntax as Ruby, or at least as similar as possible.
